@@ -2,7 +2,7 @@
 
 Trainee Webdeveloper
 
-Skillset:
+Skills:
 - HTML 5
 - SCSS Less
 - Shopware
