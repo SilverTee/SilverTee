@@ -5,5 +5,11 @@ Trainee Webdeveloper
 Skills:
 - HTML 5
 - SCSS Less
-- Shopware
+- Katalon
+- Shopware 5
 - AHK
+- JSON Schema
+
+
+Softskills:
+- Scrum
