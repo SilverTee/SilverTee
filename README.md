@@ -1,15 +1,16 @@
-# SilverTee
-
-[!Follow(https://img.shields.io/twitter/follow/Finnyooo?label=Follow&style=social)]
-
-# Current Title
+# SilverTee (Finn A)
 Trainee Web Developer (Apprenticeship)
 
+Currently based in Hamburg (Germany)
 
-# Passion
+
+![Following](https://img.shields.io/twitter/follow/Finnyooo?label=Follow&style=social)
+
+
+## Passion
 My passion to develop high performance Web Applications.
 
-# Skills:
+## Skills:
 - HTML 5
 - SCSS Less
 - Katalon
@@ -17,10 +18,10 @@ My passion to develop high performance Web Applications.
 - AHK
 - JSON Schema
 
-# Former Skills:
+## Former Skills:
 - React
 - Typescript
 
 
-# Softskills:
+## Softskills:
 - Scrum
