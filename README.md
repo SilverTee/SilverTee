@@ -1,6 +1,6 @@
 # SilverTee
 
-[![Follow](https://img.shields.io/twitter/follow/Finnyooo?label=Follow&style=social)]
+[!Follow(https://img.shields.io/twitter/follow/Finnyooo?label=Follow&style=social)]
 
 # Current Title
 Trainee Web Developer (Apprenticeship)
