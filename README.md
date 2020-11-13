@@ -8,7 +8,9 @@ Currently based in Hamburg (Germany)
 
 
 ## Passion
-My passion to develop high performance Web Applications.
+- High Performance Web Applications
+- Get the Web A11Y for everyone
+
 
 ## Skills:
 - HTML 5
