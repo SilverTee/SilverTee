@@ -20,10 +20,5 @@ Currently based in Hamburg (Germany)
 - AHK
 - JSON Schema
 
-## Former Skills:
-- React
-- Typescript
-
-
 ## Softskills:
 - Scrum
