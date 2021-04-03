@@ -1,6 +1,5 @@
 # SilverTee (Finn A)
 Trainee Web Developer (Apprenticeship)
-
 Currently based in Hamburg (Germany)
 
 
@@ -12,13 +11,3 @@ Currently based in Hamburg (Germany)
 - Get the Web A11Y for everyone
 
 
-## Skills:
-- HTML 5
-- SCSS Less
-- Katalon
-- Shopware 5
-- AHK
-- JSON Schema
-
-## Softskills:
-- Scrum
