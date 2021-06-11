@@ -1,6 +1,6 @@
 # SilverTee (Finn A)
 Trainee Web Developer (Apprenticeship)
-Currently based in Hamburg (Germany)
+based in Hamburg (Germany)
 
 
 ![Following](https://img.shields.io/twitter/follow/Finnyooo?label=Follow&style=social)
