@@ -1,5 +1,5 @@
 # SilverTee (Finn A)
-Trainee Web Developer (Apprenticeship)
+Web Developer
 based in Hamburg (Germany)
 
 
