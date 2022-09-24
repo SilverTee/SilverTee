@@ -1,21 +1,29 @@
 # Moin <img src="https://imgur.com/3Txuraz.gif" width="30px">
 
-# SilverTee (Finn A)
-Web Developer
-based in Hamburg (Germany)
+Welcome to my Github Profile!
+Im a Web Developer based in Hamburg, Germany.
 
 
+My Twitter:
 ![Following](https://img.shields.io/twitter/follow/Finnyooo?label=Follow&style=social)
 
 
-## Website
-coming soon.
-
 ## Langs
 
+Im currently focusing on:
+<b>Frontend</b>
+<img src="https://img.icons8.com/plasticine/100/000000/react.png" alt="react"/> <br>
+<img src="https://img.icons8.com/color/100/000000/vue-js.png" alt="vue"/> <br>
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/100/000000/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-color-tal-revivo.png" alt="nuxt" /> <br>
 
-## Passion
-- High Performance Web Applications
-- Get the Web A11Y for everyone
+<b>Backend</b>
+<img src="https://img.icons8.com/color/100/000000/golang.png" alt="golang" />
+
+In the past i used:
+- Autohotkey
+- AutoIT
+- Katalon (Selenium based Testing Framework)
 
 
+### Credits
+Icons by https://icons8.com
