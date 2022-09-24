@@ -1,3 +1,5 @@
+# Moin <img src="https://imgur.com/3Txuraz.gif" width="30px">
+
 # SilverTee (Finn A)
 Web Developer
 based in Hamburg (Germany)
@@ -8,6 +10,9 @@ based in Hamburg (Germany)
 
 ## Website
 coming soon.
+
+## Langs
+
 
 ## Passion
 - High Performance Web Applications
