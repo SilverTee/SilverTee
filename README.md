@@ -11,12 +11,12 @@ My Twitter:
 ## Langs
 
 Im currently focusing on:
-<b>Frontend</b>
+<b>Frontend</b> <br>
 <img src="https://img.icons8.com/plasticine/100/000000/react.png" alt="react"/> <br>
 <img src="https://img.icons8.com/color/100/000000/vue-js.png" alt="vue"/> <br>
 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/100/000000/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-color-tal-revivo.png" alt="nuxt" /> <br>
 
-<b>Backend</b>
+<b>Backend</b> <br>
 <img src="https://img.icons8.com/color/100/000000/golang.png" alt="golang" />
 
 In the past i used:
