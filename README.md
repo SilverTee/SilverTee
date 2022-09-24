@@ -1,16 +1,13 @@
 # Moin <img src="https://imgur.com/3Txuraz.gif" width="30px">
-
 Welcome to my Github Profile!
 Im a Web Developer based in Hamburg, Germany.
-
 
 My Twitter:
 ![Following](https://img.shields.io/twitter/follow/Finnyooo?label=Follow&style=social)
 
 
 ## Langs
-
-Im currently focusing on:
+Im currently focusing on: <br>
 <b>Frontend</b> <br>
 <img src="https://img.icons8.com/plasticine/100/000000/react.png" alt="react"/> <br>
 <img src="https://img.icons8.com/color/100/000000/vue-js.png" alt="vue"/> <br>
