@@ -9,8 +9,6 @@ My Twitter:
 ## Langs
 Im currently focusing on: <br>
 <img src="https://img.icons8.com/plasticine/100/000000/react.png" alt="react"/> 
-<img src="https://img.icons8.com/color/100/000000/vue-js.png" alt="vue"/> 
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/100/000000/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-color-tal-revivo.png" alt="nuxt" /> 
 <img src="https://img.icons8.com/color/100/000000/golang.png" alt="golang" />
 
 In the past i used:
