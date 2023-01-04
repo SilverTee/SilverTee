@@ -7,11 +7,12 @@ My Twitter:
 
 
 ## Langs
-Typescript
-Next.js
-T3-Stack
-tRPC
-Zod
+
+- **T3-Stack**
+- **Typescript**
+- **Next.js**
+- **tRPC**
+- **Zod**
 
 In the past i used:
 - Autohotkey
