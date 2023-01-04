@@ -7,14 +7,17 @@ My Twitter:
 
 
 ## Langs
-Im currently focusing on: <br>
-<img src="https://img.icons8.com/plasticine/100/000000/react.png" alt="react"/> 
-<img src="https://img.icons8.com/color/100/000000/golang.png" alt="golang" />
+Typescript
+Next.js
+T3-Stack
+tRPC
+Zod
 
 In the past i used:
 - Autohotkey
 - AutoIT
 - Katalon (Selenium based Testing Framework)
+- Golang
 
 
 ### Credits
