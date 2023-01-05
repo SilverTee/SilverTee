@@ -2,10 +2,6 @@
 Welcome to my Github Profile!
 Im a Web Developer based in Hamburg, Germany.
 
-My Twitter:
-![Following](https://img.shields.io/twitter/follow/Finnyooo?label=Follow&style=social)
-
-
 ## Langs
 
 - **T3-Stack**
